@@ -1,5 +1,8 @@
 # Google Maps Browserify
 
-_prereq_ `npm install -g browserify`
+_prereqs_ 
+
+* `npm install -g browserify`
+* `npm install`
 
 `browserify ./src/index.js -o bundle.js`
